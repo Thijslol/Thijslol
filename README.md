@@ -1,5 +1,5 @@
 ### Introductie
-Afgestudeerd **Graduaat Programmeren** met een zeer grote passie 
+Vers afgestudeerd in **Graduaat Programmeren** met een zeer grote passie 
 voor technologie. Goed onderlegd in tal van programmeertalen 
 waaronder **Java, Javascript, SQL, NoSQL, HTML5, CSS, Spring en React**. 
 
